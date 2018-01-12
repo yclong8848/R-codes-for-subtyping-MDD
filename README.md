@@ -1,6 +1,6 @@
 # R-codes-for-subtyping-MDD
 
-The R codes for prepareing the paper: 
+The R codes for the following paper: 
 
 Chenglong Yu, Mauricio Arcos-Burgos, Julio Licinio, Ma-Li Wong (2017). A latent genetic subtype of major depression identified by whole-exome genotyping data in a Mexican-American cohort, Translational Psychiatry, 7, e1134. 
 
